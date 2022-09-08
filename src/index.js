@@ -106,7 +106,7 @@ FTW. Fernando R. is a proud Mexican driving representation in the gaming world. 
 
 facebookicon="https://img.icons8.com/color/48/000000/facebook-new.png"
 heading="Facebook"
-date='July 16'
+date='Oct 5 2021'
 textpost="Today is Teacher Appreciation Day, and as we’ve seen during this past year, teachers lift us up in ways that far surpass their curriculums. Like the members of the Music Teachers Facebook Group, teachers have found creative ways to keep us connected. Make sure to say thank you to a teacher (or a parent-teacher) today! #MoreTogether"
 imagepost='https://scontent.fkhi8-1.fna.fbcdn.net/v/t1.6435-9/181431311_10160685700461729_6631026936959694562_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=4m-xQynogBkAX_L4Wlj&_nc_ht=scontent.fkhi8-1.fna&oh=00_AT8oFPRwTZxxAxcx1GOhp3U88BiNBICZC9nEGzkFkSs0wg&oe=634090B9'
 likeemoji='https://img.icons8.com/ios/50/000000/facebook-like--v1.png'
@@ -125,7 +125,7 @@ commenttext='Great! '
 
 facebookicon="https://img.icons8.com/color/48/000000/facebook-new.png"
 heading="Facebook"
-date='July 16'
+date='Feb 20'
 textpost="Its #EarthDay, which means we're putting a spotlight on Facebook Groups like Repurpose + Upcycling = Inspiration, Bicycle Commuter and VeganSoulSistuhs who all have tips to share on small ways we can all help restore our planet. #MoreTogether"
 imagepost='https://scontent.fkhi8-1.fna.fbcdn.net/v/t1.6435-9/177487792_10160657184431729_1335558799546645948_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=hpz5x_3VnAIAX_310-I&_nc_ht=scontent.fkhi8-1.fna&oh=00_AT9vHkUBk3Grp3nP_eyc01OrW1guBIWBS2si143LQ6DEkg&oe=633ED8AD'
 likeemoji='https://img.icons8.com/ios/50/000000/facebook-like--v1.png'
